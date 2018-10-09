@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["XU37g"]); }
+
+__d("FeedProfilePhotoFooter",["SubscriptionsHandler","UFICentralUpdates","URI","destroyOnUnload"],(function(a,b,c,d,e,f){function a(a,c){"use strict";var d=new(b("SubscriptionsHandler"))();d.addSubscriptions(b("UFICentralUpdates").subscribe("actor-changed",function(d,e){return a.setAttribute("href",new(b("URI"))(c).addQueryData("profile_id",e.actorID).toString())}));b("destroyOnUnload")(function(){return d.release()})}e.exports=a}),null);
+__d("MediaRecorder",[],(function(a,b,c,d,e,f){e.exports=window.MediaRecorder}),null);
