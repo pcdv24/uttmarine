@@ -122,7 +122,9 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 14px;
 }
 .fh5co-nav #fh5co-logo {
-  font-size: 24px;
+  width:150px;
+  height:auto;
+  font-size: 12px;
   margin: 0;
   padding: 0;
   text-transform: uppercase;
@@ -492,14 +494,16 @@ h1, h2, h3, h4, h5, h6, figure {
   background: rgba(0, 0, 0, 0.05);
 }
 
-#fh5co-explore,
 #fh5co-pricing,
 #fh5co-testimonial,
 #fh5co-started,
 #fh5co-project,
 #fh5co-blog,
 #fh5co-contact,
-#fh5co-footer {
+#fh5co-footer,
+#equipe,
+#utt,
+#asso {
   padding: 7em 0;
   clear: both;
 }
