@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["6pz9w"]); }
-
-__d("ReactBrowserEventEmitter_DO_NOT_USE",["ReactDOM-fb"],(function(a,b,c,d,e,f){"use strict";a=b("ReactDOM-fb").__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED;e.exports=a.ReactBrowserEventEmitter}),null);

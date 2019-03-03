@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["N8QjZ"]); }
-
-__d("BizNotificationListItemReadToggle.react",["fbt","BizNotifReadToggle.react","React"],(function(a,b,c,d,e,f,g){"use strict";function a(a){var c=a.className,d=a.isRead,e=a.canMarkUnread;a=a.onToggleClick;return b("React").createElement(b("BizNotifReadToggle.react"),{className:c,isRead:d,onClick:a,readLabel:e?g._("Marquer comme non lue"):g._("Lu"),unreadLabel:g._("Marquer comme lue")})}e.exports=a}),null);

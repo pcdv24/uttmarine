@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["FBixy"]); }
-
-__d("PagesComposerWWWInterceptionActionsType",["keyMirrorRecursive"],(function(a,b,c,d,e,f){"use strict";e.exports=b("keyMirrorRecursive")({INTERCEPTION_DETECTED:null,INTERCEPTION_RESPONSE:null},"PagesComposerWWWInterceptionActionsType")}),null);
